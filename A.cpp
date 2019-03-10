@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cstdio>
 using namespace std;
-
-
 //for test
 
 void function(int n){
